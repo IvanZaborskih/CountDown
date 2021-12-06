@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const choseDate = new Date(2022, 2, 31, 0, 0, 0);
+  const choseDate = new Date(2022, 0, 1, 0, 0, 0);
 
   const daysValue = document.querySelector('#days');
   const hoursValue = document.querySelector('#hours');
